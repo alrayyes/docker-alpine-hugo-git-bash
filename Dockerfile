@@ -1,7 +1,7 @@
 FROM alpine:latest
 MAINTAINER Ryan Kes <ryan@andthensome.nl>
 
-ENV HUGO_VERSION 0.16
+ENV HUGO_VERSION 0.26
 ENV HUGO_BINARY hugo_${HUGO_VERSION}_linux-64bit
 
 # Install pygments (for syntax highlighting)
