@@ -9,7 +9,7 @@ ARG VCS_URL
 LABEL org.label-schema.build-date=$BUILD_DATE \
       org.label-schema.vcs-url=$VCS_URL \
       org.label-schema.vcs-ref=$VCS_REF \
-org.label-schema.schema-version="1.0.0-rc1"
+      org.label-schema.schema-version="1.0.0-rc1"
 
 ENV HUGO_VERSION 0.26
 ENV HUGO_BINARY hugo_${HUGO_VERSION}_linux-64bit
