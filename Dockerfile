@@ -1,5 +1,6 @@
 FROM alpine:latest
 MAINTAINER Ryan Kes <ryan@andthensome.nl>
+ADD VERSION .
 
 ENV HUGO_VERSION 0.26
 ENV HUGO_BINARY hugo_${HUGO_VERSION}_linux-64bit
