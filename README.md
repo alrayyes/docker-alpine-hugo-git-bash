@@ -1,10 +1,10 @@
 # Docker Alpine Hugo Git Bash
 
-## Docker Image
+### Docker Image
 
 [![](https://images.microbadger.com/badges/image/andthensome/alpine-hugo-git-bash.svg)](http://microbadger.com/images/andthensome/alpine-hugo-git-bash "Get your own image badge on microbadger.com") [![](https://images.microbadger.com/badges/version/andthensome/alpine-hugo-git-bash.svg)](http://microbadger.com/images/andthensome/alpine-hugo-git-bash "Get your own version badge on microbadger.com") [![](https://images.microbadger.com/badges/commit/andthensome/alpine-hugo-git-bash.svg)](https://microbadger.com/images/andthensome/alpine-hugo-git-bash "Get your own commit badge on microbadger.com")
 
-## Build
+### Build
 
 [![Build Status](https://travis-ci.org/alrayyes/docker-alpine-hugo-git-bash.svg)](https://travis-ci.org/alrayyes/docker-alpine-hugo-git-bash)
 
