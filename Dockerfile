@@ -1,4 +1,4 @@
-FROM alpine:latest
+FROM alpine:3.6
 MAINTAINER Ryan Kes <ryan@andthensome.nl>
 ADD VERSION .
 
