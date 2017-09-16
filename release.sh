@@ -11,7 +11,7 @@ version=`cat VERSION`
 echo "version: $version"
 
 # run build
-./build.sh
+sudo env IMAGE_NAME=$IMAGE sh ./hooks/build
 
 # tag it
 git add -A
