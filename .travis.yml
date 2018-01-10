@@ -1,9 +1,0 @@
-services:
-  - docker
-
-install:
-  - docker build -t hugo .
-  - docker run -d --name hugo hugo
-
-script:
-  - docker ps | grep -q hugo
