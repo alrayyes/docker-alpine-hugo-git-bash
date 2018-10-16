@@ -1,4 +1,4 @@
-FROM alpine:3.6
+FROM alpine:3.7
 ADD VERSION .
 
 ENV HUGO_VERSION 0.32.3
